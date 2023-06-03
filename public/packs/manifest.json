@@ -7,9 +7,6 @@
           "/packs/js/runtime-a264c6705547ad01acbb.js",
           "/packs/js/vendors-node_modules_rails_activestorage_app_assets_javascripts_activestorage_js-node_modules-2576d4-9a719947c3eb6bc6295c.js",
           "/packs/js/application-e2d1692aebb36c02d64a.js"
-        ],
-        "css": [
-          "/app/assets/stylesheets/application.css"
         ]
       }
     }
